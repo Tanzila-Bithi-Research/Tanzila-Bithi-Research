@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🚀 Hi, I'm Tanzila Bithi! 
 
-<!--
-**Tanzila-Bithi-Research/Tanzila-Bithi-Research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Aspiring C++ Developer | Tech Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a passionate learner currently exploring the depths of **C++ Programming** and building real-world logic through code. I love turning complex problems into simple, efficient solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack & Tools
+- **Language:** C++ (Core Logic, OOP, DSA)
+- **Version Control:** Git & GitHub
+- **Environment:** Cxxdroid (Mobile), VS Code (Learning)
+
+---
+
+### 📈 Current Projects (C++)
+Check out my [My-First-Cpp-Projects](https://github.com/Tanzila-Bithi-Research/My-First-Cpp-Projects) repository to see my journey:
+- **Student Grading System:** Automating academic result calculations.
+- **Digital Bank ATM Simulator:** Managing transactions with secure logic.
+
+---
+
+### 🌱 I am currently learning...
+- Advanced Data Structures in C++.
+- Professional Software Documentation (README).
+- Open Source Contribution.
+
+---
+
+### 📫 How to reach me:
+- **GitHub:** [Tanzila-Bithi-Research](https://github.com/Tanzila-Bithi-Research)
+
+---
+"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
