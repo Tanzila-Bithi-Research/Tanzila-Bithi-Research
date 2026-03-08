@@ -37,7 +37,9 @@ Check out my [My-First-Cpp-Projects](https://github.com/Tanzila-Bithi-Research/M
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Tanzila-Bithi-Research&cc=000&tc=fff&ic=fff&bc=000)
 
 ### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzila-Bithi-Research&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzila-Bithi-Research&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ### 🛠️ Projects
