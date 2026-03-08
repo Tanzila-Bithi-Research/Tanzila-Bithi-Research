@@ -38,8 +38,20 @@ Check out my [My-First-Cpp-Projects](https://github.com/Tanzila-Bithi-Research/M
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzila-Bithi-Research&layout=compact&theme=radical)
 
----
+
 
 ### 🛠️ Projects
 - [My First C++ Projects](https://github.com/Tanzila-Bithi-Research/My-First-Cpp-Projects)
+
+
+### 🏆 Achivement Summary :  C++ Development Achievements
+
+I have successfully built a portfolio of "5 Real-World C++ Projects" , demonstrating my skills in logic building, data management, and persistent storage.
+
+📄 Logic & UI Flow: Developed a "Student Grading System" and "ATM Simulation" to master decision-making logic.
+📄 Data Management: Built an "Expense Tracker" and a "Digital Phonebook" using `structs` and `vectors` for efficient data handling.
+📄 Advanced Features: Implemented a "Persistent Task Manager" using "File (I/O)" to save data permanently on a device.
+📄 Professional Workflow: Managed all projects using "Git & GitHub" with clean documentation and banner designs.
+
+
 
