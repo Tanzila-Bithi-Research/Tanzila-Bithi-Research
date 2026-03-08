@@ -34,10 +34,10 @@ Check out my [My-First-Cpp-Projects](https://github.com/Tanzila-Bithi-Research/M
 *"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
 
 ### 📊 My GitHub Stats
-![Tanzila's Stats](https://github-readme-stats.vercel.app/api?username=Tanzila-Bithi-Research&show_icons=true&theme=radical)
+![Tanzila's Stats](https://github-readme-stats.vercel.app/api?username=Tanzila-Bithi-Research&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzila-Bithi-Research&layout=compact&theme=radical)
-
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzila-Bithi-Research&layout=compact&theme=tokyonight)
 
 
 ### 🛠️ Projects
